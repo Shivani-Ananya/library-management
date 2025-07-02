@@ -1,2 +1,3 @@
 # library-management
-This Library Management System is a simple yet effective Python-based project designed to manage book records, issue books, and track borrowers in a library setup. 
+This Library Management System is a simple yet effective Python-based project designed to manage book records, issue books, and track borrowers in a library setup. Built using core Python concepts like functions, dictionaries, and file handling, the system allows users to add, search, issue, return, and delete book records through a command-line interface. 
+This project helped me enhance my understanding of data management and user interaction in Python applications. It’s a practical beginner-level project with scope for future improvements like integrating a GUI or database. Feedback, suggestions, and ideas for enhancement are always welcome!
